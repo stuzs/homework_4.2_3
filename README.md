@@ -1,6 +1,7 @@
-For 3rd Homework Assignment (ICCAD Fundamentals course version 4.2)
+For the 3rd Homework Assignment (course ICCAD Fundamentals version 4.2)
+12/24/2018
 
-There are one homework assignment file (.txt) and a few related code files, which include those referred in all the given questions.
+There are one homework assignment file (homework_4.2_3.txt) and a few related code files, including those referred in all the given questions.
 
 demo_x.c
 
